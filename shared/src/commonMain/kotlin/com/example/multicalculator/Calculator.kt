@@ -5,7 +5,7 @@ class Calculator{
         return  left + right
 
     }
-    fun substract (left: Int, right: Int): Int{
+    fun subtract (left: Int, right: Int): Int{
         return  left - right
 
     }
